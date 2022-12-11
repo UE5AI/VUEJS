@@ -1,0 +1,25 @@
+{
+  "name": "test-task",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@toneflix-code/flickity-vue": "^1.0.1",
+    "core-js": "^3.8.3",
+    "flickity": "^3.0.0",
+    "fullpage.js": "^4.0.15",
+    "hooper": "^0.3.4",
+    "vue": "^3.2.13",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-ssr-carousel": "^1.9.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.0"
+  }
+}
